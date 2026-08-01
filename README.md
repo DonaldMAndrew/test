@@ -39,5 +39,3 @@ Welcome to my portfolio, where I document a running summary of my projects: [Por
 * Portfolio: [Donaldandrew.com](https://www.donaldandrew.com/)
 * LinkedIn: add your link here
 * Email: donaldandrewmadu@gmail.com
-
-<sub>Swap the placeholder links above (portfolio repo URL, LinkedIn) for your real ones before you publish this.</sub>

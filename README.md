@@ -1,4 +1,6 @@
-[About Me](#about-me) · [Projects](#projects) · [Connect with Me](#connect-with-me)
+[About Me](#about-me) · 
+[Projects](#projects) · 
+[Connect with Me](#connect-with-me)
 
 <a name="about-me"></a>
 ### 👋 About Me

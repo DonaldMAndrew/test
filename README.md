@@ -1,4 +1,5 @@
 [About Me](#about-me) · 
+<br/>
 [Projects](#projects) · 
 [Connect with Me](#connect-with-me)
 

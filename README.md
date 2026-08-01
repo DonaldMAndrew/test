@@ -34,5 +34,5 @@ Welcome to my portfolio, where I document a running summary of my projects: [Por
 
 ### 👋🏻 Connect with Me
 * Portfolio: [Donaldandrew.com](https://www.donaldandrew.com/)
-* LinkedIn: [in/Donald Andrew] (https://www.linkedin.com/in/donaldandrew/)
+* LinkedIn: [in/Donald Andrew](https://www.linkedin.com/in/donaldandrew/)
 * Email: donaldandrewmadu@gmail.com

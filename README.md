@@ -1,6 +1,7 @@
 [About Me](#about-me) · 
 <br/>
 [Projects](#projects) · 
+<br/>
 [Connect with Me](#connect-with-me)
 
 <a name="about-me"></a>

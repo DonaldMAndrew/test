@@ -7,9 +7,11 @@
 <a name="about-me"></a>
 ### 👋 About Me
 
-I was into tech long before pharmacy school ever came into the picture. But it was during pharmacy training itself, somewhere between memorizing drug interactions and watching how patients actually moved through a system, that I started noticing patterns everywhere: in dosing data, in workflows, in the small inefficiencies nobody was tracking. That pull toward the number side of things and obsession what drew me into statistics. Once I had had my fill on the concepts, the knowledge started to seek application.
+I was into tech long before pharmacy school ever came into the picture. But it was during pharmacy training itself, somewhere between memorizing drug interactions and watching how patients actually moved through a system, that I started noticing patterns everywhere: in dosing data, in workflows, and in the small inefficiencies nobody was tracking. That pull toward the numbers drew me into statistics. Once I had had my fill on the concepts, the knowledge started to seek application.
 
-That interest hit a record high in 2020, watching a world in trouble lean harder on data than it ever had before: case counts, positivity rates, vaccine rollout numbers, all of it quietly deciding what happened next. That was around when it became clear to me that health informatics is not just analysis. It is closer to safeguarding the truth, keeping the right data clean and ready long before anyone realizes they will need it.
+That interest hit a record high in 2020, watching a world in trouble lean harder on data than it ever had before: case counts, positivity rates, vaccine rollout numbers, all of which quietly deciding what happened next. That was when it became clear to me that beyond just analysis, health informatics is closer to safeguarding the truth, keeping the right data clean and ready long before anyone realizes they will need it.
+
+At some point I stopped wanting to be a pharmacist who happened to like data, or a data person who used to be a pharmacist. I wanted to sit at the center of both. So I started a Computer Science degree alongside the clinical training, partly to actually understand the technical side well enough to hold my own in it, and partly because I wanted to be the kind of person who could stand between clinicians and engineers and translate for both, two worlds that, at least when I started, weren't really built to talk to each other.
 
 I've been honing that ever since: coursework, SQL and Python, health economics and epidemiology, and now a deliberate push into machine learning and NLP. Every time I'm in a room where I can turn a clinician's constraint into something an engineer can build, or a model's output into something a clinician can trust, part of that original dream clicks into place.
 
@@ -37,5 +39,5 @@ Welcome to my portfolio, where I document a running summary of my projects: [Por
 <a name="connect-with-me"></a>
 ### 👋🏻 Connect with Me
 * Portfolio: [Donaldandrew.com](https://www.donaldandrew.com/)
-* LinkedIn: add your link here
+* LinkedIn: [in/Donald Andrew] (https://www.linkedin.com/in/donaldandrew/)
 * Email: donaldandrewmadu@gmail.com

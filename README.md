@@ -37,7 +37,7 @@ Today that shows up as SQL and Python, health economics and epidemiology, and a 
 
 <a name="connect-with-me"></a>
 ### 🤝 Connect with Me
-* Portfolio: [Donaldandrew.com](https://www.donaldandrew.com/)
-* LinkedIn: []
+* Personal Website: [Donaldandrew.com](https://www.donaldandrew.com/)
+* LinkedIn: [in/DonaldAndrew](https://www.linkedin.com/in/donaldandrew/)
 * Email: [donaldandrewmadu@gmail.com](mailto:donaldandrewmadu@gmail.com)
 

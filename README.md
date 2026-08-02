@@ -1,43 +1,43 @@
-[About Me](#about-me) · 
-<br/>
-[Projects](#projects) · 
-<br/>
-[Connect with Me](#connect-with-me)
+### Hi, I'm Donald 👋
+Pharmacist | Computer Science Student | Data Scientist | Health Informatics
+
+[About Me](#about-me) · [Projects](#projects) · [Connect with Me](#connect-with-me)
+
+I work at the intersection of healthcare and technology, using SQL, Python, machine learning and NLP to turn clinical and operational data into decisions people can actually trust.
+
+### 🛠️ Technical Skills
+
+**Languages**
+Python · SQL
+
+**Machine Learning & NLP**
+scikit-learn · XGBoost · PyTorch · Hugging Face Transformers · spaCy
+
+**Databases**
+PostgreSQL · SQLite
+
+**Data Visualization**
+Tableau · Power BI · Excel · Google Looker Studio
+
+<a name="projects"></a>
+### 📚 Featured Projects
+
+Explore the full portfolio here: [Portfolio Guide](https://github.com/donaldandrew/Portfolio-Guide/blob/main/README.md)
+
+Covers healthcare analytics, machine learning, NLP, SQL, data visualization, and public health/epidemiology work.
 
 <a name="about-me"></a>
 ### 👋 About Me
 
-I was into tech long before pharmacy school ever came into the picture. But it was during pharmacy training itself, somewhere between memorizing drug interactions and watching how patients actually moved through a system, that I started noticing patterns everywhere: in dosing data, in workflows, and in the small inefficiencies nobody was tracking. That pull toward the numbers drew me into statistics. Once I had had my fill on the concepts, the knowledge started to seek application.
+I was into tech long before pharmacy school, but it was during clinical training that I started noticing patterns everywhere: in dosing data, in workflows, in inefficiencies nobody was tracking. That pull toward the number side of things is what drew me into statistics.
 
-That interest hit a record high in 2020, watching a world in trouble lean harder on data than it ever had before: case counts, positivity rates, vaccine rollout numbers, all of which quietly deciding what happened next. That was when it became clear to me that beyond just analysis, health informatics is closer to safeguarding the truth, keeping the right data clean and ready long before anyone realizes they will need it.
+Rather than choose between pharmacy and technology, I wanted to sit at the center of both, so I started a Computer Science degree alongside my clinical training. That combination is the whole point: I can hold my own on the technical side and still translate between clinicians and engineers, two groups that don't always speak the same language.
 
-At some point I stopped wanting to be a pharmacist who happened to like data, or a data person who used to be a pharmacist. I wanted to sit at the center of both. So I started a Computer Science degree alongside the clinical training, partly to actually understand the technical side well enough to hold my own in it, and partly because I wanted to be the kind of person who could stand between clinicians and engineers and translate for both, two worlds that, at least when I started, weren't really built to talk to each other.
-
-I've been honing that ever since: coursework, SQL and Python, health economics and epidemiology, and now a deliberate push into machine learning and NLP. Every time I'm in a room where I can turn a clinician's constraint into something an engineer can build, or a model's output into something a clinician can trust, part of that original dream clicks into place.
-
-It also turns out this is a good time to be standing exactly here. The industry is hitting what researchers call the "data wall": the open internet is running out of clean, human-generated data to train on, and leaning on AI-generated data instead risks model collapse, where models quietly lose the rare, human parts of what they're supposed to be learning. Clinical data cannot afford that kind of noise, it has to stay grounded in real biology and real patients. That is exactly what a pharmacist turned data scientist is built to protect, and it also means generalist analysts will increasingly need to go deep somewhere real to matter. So my mission and drive have always evolved, and today it is this: to tell my own truth in data as I know it.
-
-**Here is a bit of what I do to bring that into the room:**
-
-* Cleaning and querying data with SQL and Python (pandas, numpy).
-* Building regression, classification, clustering and anomaly-detection models with scikit-learn and XGBoost.
-* Working through NLP, from vectorization to Hugging Face transformer pipelines.
-* Turning healthcare and operations data into dashboards and reports people actually use, with Tableau, Power BI and Excel.
-* Applying epidemiological methods and cost-effectiveness frameworks (DALYs, WELLBYs) to public health questions.
-
-<a name="projects"></a>
-### 📚 Projects
-
-Welcome to my portfolio, where I document a running summary of my projects: [Portfolio Guide](https://github.com/donaldandrew/Portfolio-Guide/blob/main/README.md)
-
-### 🛠️ Tools
-* **Language:** Python, SQL
-* **ML & NLP:** scikit-learn, XGBoost, PyTorch, Hugging Face Transformers, spaCy
-* **Database:** PostgreSQL, SQLite
-* **Visualization:** Tableau, Power BI, Excel, Google Looker Studio
+Today that shows up as SQL and Python, health economics and epidemiology, and a deliberate push into machine learning and NLP, all pointed at the same goal: turning clinical problems into technical solutions, and technical results into something a clinician can actually use.
 
 <a name="connect-with-me"></a>
-### 👋🏻 Connect with Me
+### 🤝 Connect with Me
 * Portfolio: [Donaldandrew.com](https://www.donaldandrew.com/)
-* LinkedIn: [in/Donald Andrew] (https://www.linkedin.com/in/donaldandrew/)
-* Email: donaldandrewmadu@gmail.com
+* LinkedIn: []
+* Email: [donaldandrewmadu@gmail.com](mailto:donaldandrewmadu@gmail.com)
+
